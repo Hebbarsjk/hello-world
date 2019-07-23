@@ -1,2 +1,2 @@
 # hello-world
-Welcome to gut tutorials
+Welcome to git tutorials
